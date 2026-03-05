@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my cybersecurity projects, internships, and certifications. Built with HTML, CSS, and Font Awesome icons.
 
-🔗 **Live Demo:** [Link to your deployed site]
+🔗 **Live Demo:** https://sairajjapu.github.io/sairaj_portfolio/
 
 ## 🛡️ Features
 - Responsive design
